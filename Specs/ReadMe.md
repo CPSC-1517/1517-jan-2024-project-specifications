@@ -1,4 +1,4 @@
-s# CPSC1517 Project Specs
+# CPSC1517 Project Specs
 
 > ***StarTED*** Database - A simple database for a post-secondary school. Follow the [Database Installation Instructions](./Database/ReadMe.md) to set up **Star-TED** on your computer.
 
