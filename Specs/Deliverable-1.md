@@ -26,7 +26,7 @@ Alter your `Program.cs` class to obtain your database connection string and call
 
 ## The Components
 
-There are two components for the core functionality of this project (described below). Create the components with appropriate header text describing the component. The Query component will be completed in this deliverable. The functionality for the CRUD component is to be completed in a subsequent deliverable. You must name the components **Query** and **CRUD**. In addition, you must [edit the **Index** component] of your web application. All of these components must use the same [layout](#layout-and-styling).
+There are two components for the core functionality of this project (described below). Create the components with appropriate header text describing the component. The Query component will be completed in this deliverable. The functionality for the CRUD component is to be completed in a subsequent deliverable. You must name the components **Query** and **CRUD**. In addition, you must [edit the **Home** component] of your web application. All of these components must use the same [layout](#layout-and-styling).
 
 ### Layout and Styling
 
